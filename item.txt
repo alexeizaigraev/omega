@@ -1,0 +1,19 @@
+department;1010110
+region;Київська
+district_region;
+district_city;
+city_type;м.
+city;Бориспіль
+street;Головатого
+street_type;вулиця
+hous;83
+post_index;08304
+partner;Делівері Авто
+status;
+register;№15/01 від 20.01.2017
+edrpou;41094472
+address;08304, Київська обл., місто Бориспіль, ВУЛИЦЯ ГОЛОВАТОГО, будинок 83
+partner_name;
+id_terminal;2eec377d-da49-e211-9515-00155d012d0d
+koatu;3210500000
+tax_id;15800649

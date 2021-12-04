@@ -1,0 +1,16 @@
+code;kass_owner;email;gdrive;regime;term_owner;term_shablon;soft_version;limit
+101;delivery;OSirik@delivery-auto.com.ua;delivery;не працює;delivery;delivery_moneytransfer;400140024000;5000000000
+103;nodata;nodata;nodata;ПН-НД 10:00-20:00;shablon1;shablon2;soft;limit
+106;intime;nodata;intime;не працює;shablon1;shablon2;soft;limit
+110;mandarin;123@mandarin.ua;mandarin;ПН-НД 10:00-20:00;shablon1;shablon2;soft;limit
+132;nodata;nodata;nodata;не працює;shablon1;shablon2;soft;limit
+133;justin;i.kravets@justin.ua;justin;не працює;justin;justin-services;4008004;5000000000
+141;lukso;nodata;nodata;ПН-НД 10:00-20:00;shablon1;shablon2;soft;limit
+167;parfumsDSD;123@parfums.ua;parfums;ПН-НД 10:00-20:00;shablon1;shablon2;soft;limit
+169;nodata;nodata;nodata;ПН-НД 10:00-20:00;shablon1;shablon2;soft;limit
+170;satua;1s.vishnyakov@sat.ua;sat;ПН–ПТ 09:00-18:00 СБ 09:00-14:00;satua;satua;40010011100;5000000000
+189;allo;123@allo.ua;allo;не працює;allo;allo;400110013000;5000000000
+190;zun_;123@zun.ua;zun;не працює;zun_;zun_;400110013000;5000000000
+191;surya;123@surya.ua;surya;не працює;surya;surya;400110013000;5000000000
+199;test;test@gmail.com;test;testRegime;shablon1;shablon2;soft;limit
+203;denkaua;denka@gmail.com;denka;ПН–ПТ 09:00-19:00 СБ НД 10:00-16:00;denkaua;denka;400110013000;5000000000
